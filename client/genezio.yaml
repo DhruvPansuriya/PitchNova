@@ -3,16 +3,15 @@ region: us-east-1
 frontend:
   # Specifies the path of your codebase.
   path: .
-
-  publish: build
   # Specifies the folder where the build is located.
   # This is the folder that will be deployed.
   # Scripts will run in the specified `path` folder.
-  scripts:
-
+  publish: build
 
     # The command to build your frontend project. This is custom to your project.
     # It must to populate the specified `publish` folder with a `index.html` file.
+  scripts:
+
     deploy:
       - npm install --legacy-peer-deps
       - npm run build
