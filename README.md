@@ -222,7 +222,6 @@ Start the Python model (if running locally):
 cd model
 python app.py
 ```
-
 The front-end will typically run on port 3000, the back-end on port 8000, and the Python model on port 5000, unless configured otherwise.
 
 > **Note**  
