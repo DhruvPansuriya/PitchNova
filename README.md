@@ -230,6 +230,7 @@ The front-end will typically run on port 3000, the back-end on port 8000, and th
 > To simplify the deployment process, we’ve created three different repositories for them.  
 > However, this main repository contains **all the code** (client, server, and model) in one place.
 
+
 ### 🔗 Deployment Repositories
 - **Client (Frontend Deployment):** [PitchNova Frontend](https://github.com/DhruvPansuriya/PitchNova)  
 - **Backend Deployment:** [SalesAgent-CSEA (dhruv3 branch)](https://github.com/JashVaidya1/SalesAgent-CSEA/tree/dhruv3)  
