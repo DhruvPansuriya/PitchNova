@@ -3,13 +3,6 @@
 
 PitchNova is an intelligent phone agent that conducts natural-sounding sales conversations, analyzes customer responses in real-time, processes inventory orders, and converts leads into sales opportunities with remarkable efficiency.
 
-## 🌟 Live Deployment
-
-Experience PitchNova in action:
-- **Front-end:** [https://pitch-nova.vercel.app/](https://pitch-nova.vercel.app/)
-- **Back-end API:** [https://pitchnova.onrender.com/](https://pitchnova.onrender.com/)
-- **Python ML Model:** [https://pitchnovamodel.onrender.com/](https://pitchnovamodel.onrender.com/)
-
 ## 📋 Overview
 
 PitchNova is a full-stack intelligent sales system designed to seamlessly integrate into existing sales pipelines. The system leverages advanced natural language processing, voice synthesis, and real-time analytics to create personalized and effective cold calling experiences.
@@ -110,23 +103,6 @@ PitchNova integrates seamless order processing within the dashboard:
 - **Stock Management:** Shows real-time inventory status and alerts for low stock
 
 This comprehensive solution provides critical business intelligence to optimize your sales strategy, conversation quality, and inventory management.
-
----
-
-## 🖼️ Screenshots
-
-*This section will showcase images of the PitchNova platform in action, including the dashboard, call interface, and analytics views.*
-
-## Dashboard Overview
-<img src="https://drive.google.com/uc?export=view&id=1yTvQXnkmeissonhT7upAFrUKYcO3lBov" width="800"/>
-
-## Call Summary Overview
-<img src="https://drive.google.com/uc?export=view&id=1-Un6SHmXbmKswAsGx4GYWFBugS8F35YR" width="800"/>
-
-## Call Chat Overview
-<img src="https://drive.google.com/uc?export=view&id=1CKwZMeQTjVS8XhEEQKW-AXGNh8K1gHxb" width="800"/>
-
----
 
 ## 🚀 Getting Started
 
